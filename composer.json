@@ -1,0 +1,5 @@
+{
+    "require": {
+        "joedixon/laravel-translation": "^1.1"
+    }
+}

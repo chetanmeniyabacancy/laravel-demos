@@ -1,0 +1,71 @@
+Design and content : https://cmarchiche-my.sharepoint.com/personal/y_dziri_cabinetmarchiche_ma/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fy%5Fdziri%5Fcabinetmarchiche%5Fma%2FDocuments%2FBureau%2FYD%2FHUMANONE%2FHumanOne%20Website&originalPath=aHR0cHM6Ly9jbWFyY2hpY2hlLW15LnNoYXJlcG9pbnQuY29tLzpmOi9nL3BlcnNvbmFsL3lfZHppcmlfY2FiaW5ldG1hcmNoaWNoZV9tYS9FdHQ5UUVDb1VYQkFxZkhoSjBRZU55QUJPcUZqTnFhaTM5R2xFdXZIZ3FLcGV3P3J0aW1lPUo0ejhBd0JCMlVn
+
+https://github.com/lamlihe/homanone-site
+
+The website will be constituted of 4 main sections:
+
+Home Page
+Services:
+Digital Consulting
+Engineering
+Technology
+Operations
+Teams
+Expertise
+Platform Development
+Big Data Analytics
+Cloud  (Development & Consulting)
+Devops
+Machine Learning & IA
+UI/UX Design
+Internet of Things
+Location Based Services
+Blockchain
+Cybersecurity
+Company
+Who we are
+Technology Office
+Partnership
+In the link attached are the word documents which include the content to use for each one of these pages. Regarding the structure/design in those word files, bear in mind that they are for guidance purposes only, but obviously the design must be much more advanced and creative, and matching with the advanced technology mindset of the company.
+
+-----------------------------------------------------------------------------------------------
+
+1) For database, Any requirement from client side or we can use any? Like mostly we are using Mysql in PHP.
+2) Any git repositopry for project? 
+3) How will deployment of the project in production and testning server.
+
+From design
+1) What we need to do on "let's talk" button. it will open chat or contact us page?
+2) From theme, project html will create by designer or I have to directly integrate and take help from desiner whenever need?
+3) We need to create admin panel? If yes then is there any theme or we can choose any admin theme?
+4) It will be multi language? If yes then we need to add option to add all contect in multi language dynamically or It can be okay with google translate. 
+
+-----------------------------------------------------------------------------------------------
+
+Any specific guidelines technically or project management level then please let me know. as this is my first project here I don't know much.
+
+-----------------------------------------------------------------------------------------------
+
+Index rewriting
+https://stackoverflow.com/questions/28788285/how-to-run-laravel-without-artisan
+
+-----------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+Technical.
+1) Which database.
+2) Any git repositopry for project?
+
+From design.
+1) What we need to do on "let's talk" button. it will open chat or contact us page?
+2) What will be in footer. And what about "blog subscription" button.
+3) "Get in touch", "Get appointment" and "Contact Us" are same?
+4) We need to create admin panel? If yes then is there any theme or we can choose any admin theme? And which contents will be dynamic from admin? 
+5) It will be multi language? If yes then we need to add option to add all content in multi language dynamically or It can be okay with google translate.
+

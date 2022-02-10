@@ -1,0 +1,51 @@
+.contact-quick {
+    position: fixed !important;
+    top: 24px !important;
+    right: 15px;
+    width: 45px;
+    height: 45px;
+    color: #ffffff;
+    font-size: 24px;
+    text-transform: uppercase;
+    line-height: 65px;
+    text-align: center;
+    z-index: 99999;
+    cursor: pointer;
+    /* background: #ff6489; */
+    display: block;
+    /* border: 2px solid #ff6489; */
+    -webkit-transition: all 300ms ease;
+    -ms-transition: all 300ms ease;
+    -o-transition: all 300ms ease;
+    -moz-transition: all 300ms ease;
+    transition: all 300ms ease;
+    background-color: #154f96;
+    border-radius: 50%;
+}
+.no-hover:hover{
+    background-color: none;
+}
+.main-menu .navigation > li > ul > li > a.no-hover:before{
+    content:none;
+}
+.main-menu .navigation > li > ul > li:hover > a.no-hover{
+    background:none;
+    /*color:#ffffff;*/
+}
+.form-tpl.btn-style-three:hover{
+    color:#ffffff;
+    background-color:#154f96 !important;
+    border-color:#154f96;
+}
+.download-section .circle-icons {
+    position: absolute;
+    left: 0px;
+    top: 21px;
+    width: 100%;
+    height: 100%;
+    display: block;
+    background: rgb(21, 79, 150);
+    opacity: 0.6;
+}
+.default-section:before{background: none}
+.default-section{background: none}
